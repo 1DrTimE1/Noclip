@@ -1,9 +1,10 @@
 Description
-Hello and welcome to my noclip script createt by @1DrTimE1
+Hello and welcome to my noclip script.
 
 Contackt me on discord if you find buggs or stuff to improve.
 
 Discord: 1drtimee1
+Github: https://github.com/1DrTimE1/
 
 How to intsall into FiveM
 Download the Noclip script from https://github.com/1DrTimE1/Noclip/
