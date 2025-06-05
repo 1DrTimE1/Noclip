@@ -3,8 +3,8 @@ game 'gta5'
 
 lua54 'yes'
 
-author 'DittNamn'
-description 'Noclip med Discord-logg via webhook'
+author ''
+description ''
 version '1.0.0'
 
 client_script 'client.lua'
